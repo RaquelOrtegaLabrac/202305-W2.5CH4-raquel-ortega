@@ -203,13 +203,12 @@ header h2 {
   height: 270px;
   display: flex;
   justify-content: center;
-  align-items: space-around;
   flex-direction: column;
 }
 .reviews .reviews__review-author {
   display: flex;
   width: 100%;
-  padding: 25px 25px 0px 25px;
+  padding: 30px 30px 0px 30px;
 }
 .reviews .reviews__review-author img {
   border-radius: 100%;
@@ -225,11 +224,11 @@ header h2 {
   font-size: 1rem;
   line-height: 25px;
   padding-left: 30px;
-  padding-right: 25px;
+  padding-right: 30px;
 }
 
 article {
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 .author-name {
