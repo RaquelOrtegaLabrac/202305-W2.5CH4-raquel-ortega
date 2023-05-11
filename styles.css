@@ -162,6 +162,7 @@ header h2 {
   color: hsl(303, 10%, 53%);
   font-size: 1.125rem;
   text-align: center;
+  line-height: 25px;
 }
 
 .rating {
@@ -208,7 +209,7 @@ header h2 {
 .reviews .reviews__review-author {
   display: flex;
   width: 100%;
-  padding: 25px;
+  padding: 25px 25px 0px 25px;
 }
 .reviews .reviews__review-author img {
   border-radius: 100%;
@@ -217,13 +218,13 @@ header h2 {
 .reviews .review-author__author {
   display: flex;
   flex-direction: column;
-  padding-left: 20px;
+  padding-left: 30px;
 }
 .reviews p {
   color: hsl(300, 24%, 96%);
   font-size: 1rem;
-  line-height: 20px;
-  padding-left: 25px;
+  line-height: 25px;
+  padding-left: 30px;
   padding-right: 25px;
 }
 
